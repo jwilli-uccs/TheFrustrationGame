@@ -13,3 +13,5 @@ The space bar will cause the player character to Jump.
 
 Holding the F key down will cause the Frustration level for capabilities to increase.
 Releasing the F key will allows the Frustration level for capabilities to decrease.
+
+The Q button will exit the game!
