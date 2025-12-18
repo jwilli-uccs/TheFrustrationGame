@@ -3,7 +3,7 @@ A game for testing frustration during game play
 
 To run a released version of the application
 
-cd <Root>/Releases/002/Windows
+cd <Root>/Releases/003/Windows
 
 double click the *.exe file in the folder.
 The application should open.
